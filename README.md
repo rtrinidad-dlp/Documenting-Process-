@@ -6,6 +6,7 @@
 - Codex - OpenAI's coding agent
 - Git
 
+
 ## Steps Completed
 
 ### 1. Installing Cursor
@@ -51,6 +52,7 @@ repository destination. The repository opened successfully.
 Once the repository was open in Cursor, the README.md file was 
 visible in the file explorer. I opened it and documented the 
 entire process in this file.
+
 
 ## Problems I Ran Into and How I Solved Them
 
